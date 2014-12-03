@@ -1,7 +1,7 @@
 Android SwipeRefreshMultipleViews Sample
-==============================
+===================================
 
-A sample which shows how to use SwipeRefreshLayout to add the \'swipe-to-refresh\'
+A sample which shows how to use SwipeRefreshLayout to add the 'swipe-to-refresh'
 gesture to a layout with multiple children, enabling the ability to trigger a
 refresh from swiping down on the visible view. In this sample, SwipeRefreshLayout
 contains a scrollable GridView, along with a TextView empty view.
@@ -9,8 +9,8 @@ contains a scrollable GridView, along with a TextView empty view.
 Pre-requisites
 --------------
 
-- Android SDK v20
-- Android Build Tools v20
+- Android SDK v21
+- Android Build Tools v21.1.1
 - Android Support Repository
 
 Getting Started
@@ -43,7 +43,7 @@ file to you under the Apache License, Version 2.0 (the "License"); you may not
 use this file except in compliance with the License.  You may obtain a copy of
 the License at
 
-  http://www.apache.org/licenses/LICENSE-2.0
+http://www.apache.org/licenses/LICENSE-2.0
 
 Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
